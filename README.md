@@ -62,8 +62,9 @@
 
 ### 📫 Contact Me
 
-- Email: wafabila@example.com *(ganti ya kalau mau)*
-- IG/LinkedIn/Website: (bisa ditambah)
+- Email: menstruesalvation@gmail.com
+- Ig : https://www.instagram.com/syfrkhmn.z/
+- Linked in : www.linkedin.com/in/wafa-bila-syaefurokhman
 
 ---
 
