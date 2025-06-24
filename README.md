@@ -70,12 +70,12 @@
 
 ### Daily Git Quest
 
-# git init
-# git add .
-# git commit -m "Initial commit"
-# git branch -M main
-# git remote add origin https://github.com/MENSTRUE/NamaRepoBaru.git
-# git push -u origin main
+### git init
+### git add .
+### git commit -m "Initial commit"
+### git branch -M main
+### git remote add origin https://github.com/MENSTRUE/NamaRepoBaru.git
+### git push -u origin main
 
 
 <p align="center"><i>Keep coding. Keep growing. Stay humble.</i></p>
