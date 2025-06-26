@@ -1,51 +1,59 @@
-<h1 align="center">Hi 👋, I'm Wafa Bila Syaefurokhman</h1>
-<h3 align="center">Android Developer | Student of Darussalam University | Gontor Graduate 2023</h3>
+<h1 align="center">Hey there! 👋 I'm <span style="color:#00bfff;">Wafa Bila Syaefurokhman</span></h1>
+<h3 align="center">🚀 Android Developer | 🎓 Student at Darussalam University | 🕌 Gontor Graduate 2023</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"/>
+</p>
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me
 
-- 🎓 Student at **Darussalam University**
-- 🎓 Graduate of **Pondok Modern Gontor** (2023)
-- 💻 Android Developer — Kotlin, Java, Jetpack, MVVM
-- 🥊 Passionate about **gym** and **boxing**
-- 🚀 Currently learning Jetpack Compose and AI integration for mobile
+- 🎓 Proud student at **Darussalam University**
+- 🕌 Alumni of **Pondok Modern Gontor** (2023)
+- 💻 Android Developer (Kotlin, Java, MVVM, Jetpack)
+- 🥋 I hit the gym and boxing ring as hard as I hit bugs
+- 🤖 Learning Jetpack Compose & AI-integration for mobile
 
-> “Code hard. Train harder.”
-
----
-
-### 🚀 Developer Journey
-
-**Beginner** 🟢🟢⚪⚪⚪ - Understanding Kotlin & Android Basics  
-**Intermediate** 🟢🟢🟢🟢⚪ - MVVM, Retrofit, Firebase  
-**Advanced** 🟢⚪⚪⚪⚪ - Jetpack Compose, Clean Architecture
+> 💬 *“Code hard. Train harder.”*
 
 ---
 
-### 📊 Learning Progress
+## 🛤️ My Developer Path
 
-- Kotlin: [████████░░░░░░] 60%  
-- Jetpack ViewModel: [██████████░░░░] 80%  
-- Firebase Integration: [███████░░░░░░] 50%  
-- Jetpack Compose: [█████░░░░░░░░] 40%  
-- Clean Architecture: [██░░░░░░░░░░] 20%
+| Level        | Skills                                                             |
+|--------------|--------------------------------------------------------------------|
+| 🟢 Beginner   | Kotlin Basics, Android Studio, Git, UI Layouts                    |
+| 🟡 Intermediate | MVVM, Firebase, REST API (Retrofit), ViewModel                  |
+| 🔵 Advanced   | Jetpack Compose, Clean Architecture (In Progress 🚧)             |
 
 ---
 
-### 🛠️ Tools & Tech Stack
+## 📚 Learning Progress
+
+| Skill               | Progress        |
+|---------------------|-----------------|
+| `Kotlin`            | ████████░░░░ 60% |
+| `ViewModel`         | ██████████░░ 80% |
+| `Firebase`          | ███████░░░░░ 50% |
+| `Jetpack Compose`   | █████░░░░░░░ 40% |
+| `Clean Architecture`| ██░░░░░░░░░░ 20% |
+
+---
+
+## 🧰 Tech Stack & Tools
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-Intermediate-blue?logo=kotlin)
 ![Java](https://img.shields.io/badge/Java-Intermediate-orange?logo=java)
-![Android Studio](https://img.shields.io/badge/Android_Studio-Tools-green?logo=androidstudio)
-![Jetpack](https://img.shields.io/badge/Jetpack-Libraries-blueviolet?logo=android)
+![Android Studio](https://img.shields.io/badge/Android_Studio-💚-green?logo=androidstudio)
 ![Firebase](https://img.shields.io/badge/Firebase-Learning-yellow?logo=firebase)
+![Jetpack](https://img.shields.io/badge/Jetpack-🧩-blueviolet?logo=android)
 ![Git](https://img.shields.io/badge/Git-CLI-orange?logo=git)
-![Figma](https://img.shields.io/badge/Figma-UI/UX-red?logo=figma)
+![Figma](https://img.shields.io/badge/Figma-Design-red?logo=figma)
 
 ---
 
-### 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MENSTRUE&show_icons=true&theme=tokyonight" width="450"/>
@@ -54,28 +62,26 @@
 
 ---
 
-### 📉 Contribution Graph
+## ⚡ Contribution Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MENSTRUE&theme=tokyo-night)
 
 ---
 
-### 📫 Contact Me
+## 📫 Reach Me Here
 
-- Email: menstruesalvation@gmail.com
-- Ig : https://www.instagram.com/syfrkhmn.z/
-- Linked in : www.linkedin.com/in/wafa-bila-syaefurokhman
+- 📧 Email: [menstruesalvation@gmail.com](mailto:menstruesalvation@gmail.com)
+- 📷 Instagram: [@syfrkhmn.z](https://instagram.com/syfrkhmn.z)
+- 💼 LinkedIn: [Wafa Bila on LinkedIn](https://www.linkedin.com/in/wafa-bila-syaefurokhman)
 
 ---
 
-### Daily Git Quest
+## 🔁 My Git Ritual
 
-### git init
-### git add .
-### git commit -m "Initial commit"
-### git branch -M main
-### git remote add origin https://github.com/MENSTRUE/NamaRepoBaru.git
-### git push -u origin main
-
-
-<p align="center"><i>Keep coding. Keep growing. Stay humble.</i></p>
+```bash
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/MENSTRUE/NamaRepoBaru.git
+git push -u origin main
